@@ -21,7 +21,7 @@ At this point, before we even write more code to the project, let's try to build
 
 We can do this by selecting `Project -> Build Documentation` or by hitting `Option + Shift + CMD + D` for a shortcut. After finishing the building process, we might see a `Developer Documentation` window like this.
 
-![Create docc](/assets/2023-03-11-docc.png)￼
+![Create docc](/assets/2023-03-11-docc-sample.png)￼
 
 Notice on the left-hand side that we have built documentation for our project along with the other thrid party frameworks that we added from SPM earlier.
 
