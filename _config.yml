@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Peaceful Swift
-email: peacefulswiftch@gmail.com
+email: ambaschobsanti@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
