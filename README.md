@@ -11,13 +11,11 @@ This is technical blog built with [Jekyll](https://jekyllrb.com/). It contains a
 - [Bundler](https://bundler.io/)
 - [Jekyll](https://jekyllrb.com/)
 
-```
 rbenv install 3.1.4
 rbenv local 3.1.4  # or `rbenv global 3.1.4` to set globally
 gem install bundler -v 2.3.24
 bundle install
 bundle exec jekyll clean
-```
 
 ---
 
