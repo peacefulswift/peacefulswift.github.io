@@ -32,3 +32,4 @@ This approach may seem inefficient and slow me  down when tackling tasks, but si
 
 On the other hand, it also forces me to work with minimal and manageable external dependencies, which I believe is key to sustaining a long-term career in software development.
 
+![Vim Organic](/assets/2025-05-24-vim-organic.png)
