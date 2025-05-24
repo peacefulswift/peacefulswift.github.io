@@ -4,6 +4,7 @@ title:  "Vim ตามธรรชาติ"
 date:   2025-05-24 06:20:24 +0700
 categories: vim elixir
 ---
+[English Version]({% post_url 2025-05-24-adopting-vim-organically %})
 
 ตอนนี้ผมกำลังฝึกเขียนภาษาใหม่อยู่ครับ นั่นก็คือ ภาษา Elixir
 

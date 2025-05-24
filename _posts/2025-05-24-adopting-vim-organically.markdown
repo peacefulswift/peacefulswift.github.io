@@ -5,6 +5,8 @@ date:   2025-05-24 06:20:24 +0700
 categories: vim elixir
 ---
 
+[Thai Version]({% post_url 2025-05-24-adopting-vim-organically-th %})
+
 Currently, I’m spending my free time learning and practicing Elixir.
 For a long time, I’ve wanted to learn and master a language other than Swift. At the same time, Elixir has always been on my list, ever since I bought *Programming in Elixir* years ago.
 
@@ -30,4 +32,3 @@ This approach may seem inefficient and slow me  down when tackling tasks, but si
 
 On the other hand, it also forces me to work with minimal and manageable external dependencies, which I believe is key to sustaining a long-term career in software development.
 
-![Vim Organic](/assets/2025-05-24-vim-organic.png)￼
