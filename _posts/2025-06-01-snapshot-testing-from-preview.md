@@ -2,8 +2,8 @@
 layout: post
 title: "Snapshot Testing from Preview"
 date: 2025-06-01 14:14:05 +0900
-categories: []
-tags: []
+categories: [swift]
+tags: [swift,swiftui,xcode,preview,testing]
 ---
 
 # Auto Snapshot Testing
