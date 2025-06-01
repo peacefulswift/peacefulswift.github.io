@@ -19,7 +19,7 @@ Like many of Apple’s tools, Preview works great for small and simple use cases
 
 You’ve likely run into these issues yourself. Preview is useful early on but frustrating to maintain. Without automated tests, it’s hard to stay confident—especially as team size and code complexity grow.
 
-## Introducing SnapshotPreview from Emerge
+## Introducing SnapshotPreview from EmergeTools
 
 Recently, I discovered a tool that addresses many of the issues I've experienced with Preview: [`SnapshotPreviews`](https://github.com/EmergeTools/SnapshotPreviews) by EmergeTools. This tool makes it possible to write tests around your previews and offers several key benefits:
 
